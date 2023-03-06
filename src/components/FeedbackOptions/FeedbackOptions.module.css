@@ -1,0 +1,12 @@
+
+.feedback{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 15px;
+};
+
+.myButton{
+   color: darkgray;
+   padding: 5px;  
+}
